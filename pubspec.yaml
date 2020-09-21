@@ -1,11 +1,11 @@
 name: crawl_splash
-description: A new Flutter package project.
-version: 0.0.1
-author:
-homepage:
+description: A flutter package that helps you create beautiful splash screen in minutes.
+version: 0.1.0
+author: Sachin Kr. Shukla
+homepage: https://github.com/imsks/Crawl-Splash
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
   flutter:
