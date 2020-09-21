@@ -10,7 +10,7 @@ Can you build a **Splash screen within minutes** for your app? This is where we 
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/imsks/On-Board-Me/master/screenshots/on-board-me-1.jpeg"  height = "400" alt="PieChart">
+<img src="https://raw.githubusercontent.com/imsks/Crawl-Splash/master/screenshots/crawl-splash-img-1.jpg"  height = "400" alt="PieChart">
 
 ## Usage
 
